@@ -19,6 +19,7 @@ p {
     color: white;
     text-align: center;
     font-family: libre-baskerville-regular;
+    margin-top: 5%;
 }
 
 img {
@@ -29,7 +30,9 @@ img {
 }
 
 div [id = 'maindiv'] {
+    height: 40%;
     width: 50%;
+    margin-top: 20%;
     margin-left: 25%;
 
 }
